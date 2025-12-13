@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @farulivan
-- 👀 I’m a certified Frontend Developer and I'm using React as my primary tools
-- 🌱 I’m currently learning React Native and Next JS
-- 📫 For more about me, you can reach me on my Linkedin : https://www.linkedin.com/in/farulivan
+- 👋 Hi, I’m Farul — a frontend engineer who loves building clean, scalable, user-focused interfaces.
+- ⚛️ My main stack: TypeScript, React, Next.js, Tailwind.
+- 🏗️ I currently manage the entire frontend ecosystem of a fintech platform (architecture, UX, performance).
+- 🌱 Learning backend and building small full-stack projects to expand my skills.
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/farulivan
 
 <!---
 farulivan/farulivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
